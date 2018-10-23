@@ -1,0 +1,7 @@
+D:\proga_Visual\Сетевое програмирование\Dz1zad1\Dz1zad1\bin\Debug\Dz1zad1.exe.config
+D:\proga_Visual\Сетевое програмирование\Dz1zad1\Dz1zad1\bin\Debug\Dz1zad1.exe
+D:\proga_Visual\Сетевое програмирование\Dz1zad1\Dz1zad1\bin\Debug\Dz1zad1.pdb
+D:\proga_Visual\Сетевое програмирование\Dz1zad1\Dz1zad1\obj\Debug\Dz1zad1.csprojAssemblyReference.cache
+D:\proga_Visual\Сетевое програмирование\Dz1zad1\Dz1zad1\obj\Debug\Dz1zad1.csproj.CoreCompileInputs.cache
+D:\proga_Visual\Сетевое програмирование\Dz1zad1\Dz1zad1\obj\Debug\Dz1zad1.exe
+D:\proga_Visual\Сетевое програмирование\Dz1zad1\Dz1zad1\obj\Debug\Dz1zad1.pdb
